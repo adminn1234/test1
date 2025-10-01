@@ -1,6 +1,6 @@
 // ====== CONFIGURATION ======
 // Update the contract address (CA) below to change where the "Buy $HERB" button redirects
-const HERB_CONTRACT_ADDRESS = "E6YEF4vyVXbKeEFidwdxFSZgE2XckdZNMc9QkPTjpump";
+const HERB_CONTRACT_ADDRESS = "DP4omjjY94NRJrECHBZyUQSpGrjtukoDyUbqb9Zzpump";
 // ===========================
 
 document.addEventListener('DOMContentLoaded', function() {
